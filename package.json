@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.6",
+    "vinyl-buffer": "^1.0.0",
+    "babel": "^5.8.23",
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "nodemon": "^1.7.1",
+    "reactify": "^1.1.1",
+    "watchify": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
